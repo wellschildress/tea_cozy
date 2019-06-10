@@ -45,3 +45,19 @@ nav span {
   padding: 20px 10px;
   display: inline-block;
 }
+
+/*Main Section*/
+.main {
+  margin: auto;
+  padding-top: 69px;
+  width: 1200px;
+  opacity: 0.9;
+}
+
+
+/*Mission*/
+#mission {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
+  height: 700px;
+  width: 1200px;
+}
