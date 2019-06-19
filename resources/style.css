@@ -67,3 +67,35 @@ nav span {
   margin: auto;
   width: 100%
 }
+
+/*Store*/
+#store {
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+  padding-top: 70px;
+}
+
+.item {
+  margin: 5px;
+}
+
+.item img {
+  display: block;
+  height: 200px;
+  margin: 10px;
+}
+
+.item span {
+  display: block;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+}
+
+/*Locations*/
+
+#locations {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
+  height: 500px;
+}
