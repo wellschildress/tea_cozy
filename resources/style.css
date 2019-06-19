@@ -119,3 +119,16 @@ margin: auto;
   justify-content: center;
   flex-basis: 280px;
 }
+
+/*contact*/
+
+#contact {
+  height: 200px;
+}
+
+/*footer*/
+
+#copyright {
+  text-align: left;
+  padding-left: 20px;
+}
